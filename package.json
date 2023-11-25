@@ -1,0 +1,20 @@
+{
+  "name": "fibo-num",
+  "version": "10.1.0",
+  "description": "an application for checking fibo num",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "node nd.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashrafsdrop/fibbo.git"
+  },
+  "author": "0xagun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashrafsdrop/fibbo/issues"
+  },
+  "homepage": "https://github.com/ashrafsdrop/fibbo#readme"
+}
